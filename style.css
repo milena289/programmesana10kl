@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(224, 254, 255)
+
+}
+
+h1 {
+    margin-left:auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+
+
+
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.center { display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 20%;
+
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 70%;
+    
+      font-family: "Playwrite HR Lijeva", cursive;
+      font-optical-sizing: auto;
+      font-weight: "200";
+      font-style: normal;
+    
+}
+
+.bilde {
+    width: 100px;
+    float: left;
+}
+
+.bilde {
+    width: 150px;
+    float: left;
+}
+
+img {
+    margin-left: 500px;
+    width: 150px;
+    height: 150px;
+}
+
+img1 {
+    margin-right: 500px;
+    width: 200px;
+    height: 200px;
+}
